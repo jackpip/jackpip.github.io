@@ -40,7 +40,7 @@ h3 {
 }
 
 .about {
-  width: 400px;
+  width: 350px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -55,7 +55,7 @@ h3 {
 
 .about-container {
   background: url('bg.jpg') no-repeat center center fixed;
-  height: 600px;
+  height: 650px;
 }
 
 .yellow {
@@ -81,7 +81,7 @@ h3 {
 }
 
 .skills-and-tools {
-  max-width: 400px;
+  max-width: 350px;
   margin: 40px auto;
   text-align: center;
 }
@@ -145,4 +145,9 @@ li {
   border: solid white;
   border-radius: 100%;
   margin: 10px;
+}
+
+.skills {
+  width: 45%;
+  min-width: 350px;
 }
