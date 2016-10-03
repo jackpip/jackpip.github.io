@@ -138,3 +138,11 @@ li {
   border-style: solid;
   border-color: white;
 }
+
+.link-icon {
+  height: 50px;
+  background-color: white;
+  border: solid white;
+  border-radius: 100%;
+  margin: 10px;
+}
