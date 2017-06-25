@@ -100,7 +100,7 @@ h3 {
 }
 
 .contact-me {
-  height: 350px;
+  height: 550px;
   background-color: #202020;
   text-align: center;
 }
@@ -155,4 +155,15 @@ li {
 .skills {
   max-width: 100%;
   margin: 30px 0;
+}
+
+form input {
+  width: 50%;
+  margin: 5px;
+}
+
+form textarea {
+  height: 100px;
+  width: 50%;
+  margin: 5px;
 }
