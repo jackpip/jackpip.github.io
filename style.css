@@ -167,3 +167,8 @@ form textarea {
   width: 50%;
   margin: 5px;
 }
+
+.simple {
+text-decoration: none;
+color: white;	
+}
